@@ -30,6 +30,11 @@ class Index extends  BaseController
         $cd = 'sdas';
         $ab = 'asdsa';
         $cd = 'sdas';
+
+        $ab = 'asdsa';
+        $cd = 'sdas';
+        $ab = 'asdsa';
+        $cd = 'sdas';
         if($s >10){
             $arr1 = array_push($arrs,$s);
             //var_dump($arr1);
