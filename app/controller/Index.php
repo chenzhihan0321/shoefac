@@ -30,8 +30,7 @@ class Index extends  BaseController
         $cd = 'sdas';
         $ab = 'asdsa';
         $cd = 'sdas';
-
-        $ab = 'asdsa';
+        //$ab = 'asdsa';
         $cd = 'sdas';
         $ab = 'asdsa';
         $cd = 'sdas';
